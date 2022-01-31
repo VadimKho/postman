@@ -134,7 +134,11 @@ response:
           'person': {'u_name': [user_name, salary, age],
                      'u_age': age,
                      'u_salary_5_years': salary * 4.2}
-          }
+ 
+ }
+ 
+ 
+ 
 HW_2 Postman
 
 
